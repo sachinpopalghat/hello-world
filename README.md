@@ -1,2 +1,7 @@
 # hello-world
-My 1st repository on GitHub
+
+Hi,
+
+I have just started to learn programming again which I use to do while I was in college.
+
+Thank you!
